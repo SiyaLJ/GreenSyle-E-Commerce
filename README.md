@@ -6,16 +6,30 @@ Green Style is an innovative e-commerce platform dedicated to supporting the **"
 
 ---
 
-## **Features**
-- **Eco-Friendly Products**: A curated collection of handmade items crafted from recyclable materials, including:
-  - Bags, accessories, and home decor.
-  - Stationery and art supplies.
-  - Fashion items made from upcycled fabrics.
-- **Recycled Waste Marketplace**: A platform for industrial customers to purchase recycled waste materials for their production needs.
-- **Sustainability Impact Tracker**: Track the environmental impact of your purchases (e.g., CO2 saved, waste recycled).
-- **Educational Resources**: Learn about recycling, sustainability, and how you can make a difference.
+## **🎥 Project Demo**
+Watch our platform demo to see Green Style in action:
 
+[![Green Style Demo](https://img.youtube.com/vi/tuk5_eKtd3E/0.jpg)](https://youtu.be/tuk5_eKtd3E)
+
+
+### For Consumers
+- **Eco-Friendly Marketplace**: Curated collection of sustainable products
+  - Handcrafted bags and accessories
+  - Upcycled fashion items
+  - Eco-friendly home decor
+  - Sustainable stationery
+- **Impact Dashboard**: Track your environmental contribution
+- **Educational Hub**: Resources on sustainable living
+
+### For Industrial Buyers
+- **Recycled Materials Market**: Direct access to quality recycled materials
+- **Circular Economy Support**: Facilitating sustainable production cycles
+- **Verified Supplier Network**: Connected with certified recyclers
 ---
+
+### Prerequisites
+- Node.js (v14 or higher)
+- npm/yarn/pnpm/bun
 
 ## **How It Works**
 1. **For Consumers**:
@@ -30,8 +44,7 @@ Green Style is an innovative e-commerce platform dedicated to supporting the **"
 ---
 
 ## **Technology Stack**
-- **Frontend**: HTML, CSS, JavaScript/TypeScript
-- **Frameworks**: Next.js, Tailwind CSS
+- **Frontend**: HTML, CSS, JavaScript/TypeScript, Next.js, Tailwind CSS
 - **Backend**: PHP, SQL
 - **Database**: MAMP
 - **Payment Gateway**: Stripe
@@ -41,7 +54,7 @@ Green Style is an innovative e-commerce platform dedicated to supporting the **"
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
+## **🚀 Getting Started**
 
 Clone the repository:
    ```bash
